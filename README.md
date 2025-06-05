@@ -6,7 +6,7 @@ A lightweight Chrome Extension that forces YouTube to play videos in H.264 (AVC)
 
 # 🎯 Steps
 1. [Download the ZIP](https://github.com/tz-shuhag/HD.264/archive/refs/heads/main.zip)
-2. Go to chrome://extensions
+2. Go to `chrome://extensions`
 3. Enable Developer Mode
 4. Click Load Unpacked
 5. Select the extracted folder
