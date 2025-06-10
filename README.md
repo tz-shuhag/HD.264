@@ -1,6 +1,6 @@
 # ▶ YouTube (H.264 Codec & Default Quality)
 
-![Logo](https://raw.githubusercontent.com/tz-shuhag/tz-shuhag.github.io/refs/heads/main/assets/img/hd.264.webp)
+![Logo](https://raw.githubusercontent.com/tz-shuhag/tz-shuhag.github.io/refs/heads/main/assets/images/hd.264.webp)
 
 A lightweight Chrome Extension that forces YouTube to play videos in H.264 (AVC) codec, disables VP9/AV1, and let you set a default quality for smoother performance, lower CPU usage, and full control over video rendering.
 
