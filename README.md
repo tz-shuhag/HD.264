@@ -5,11 +5,12 @@
 A lightweight Chrome Extension that forces YouTube to play videos in H.264 (AVC) codec, disables VP9/AV1, and let you set a default quality for smoother performance, lower CPU usage, and full control over video rendering.
 
 # 🎯 Steps
-1. [Download the ZIP](https://github.com/tz-shuhag/HD.264/archive/refs/heads/main.zip)
-2. Go to `chrome://extensions`
-3. Enable Developer Mode
-4. Click Load Unpacked
-5. Select the extracted folder
+1. Download the Zip
+   - [Extension zip](https://github.com/tz-shuhag/HD.264/archive/refs/heads/main.zip)
+3. Go to `chrome://extensions`
+4. Enable Developer Mode
+5. Click Load Unpacked
+6. Select the extracted folder
 
 ## 🔧 Features
 
