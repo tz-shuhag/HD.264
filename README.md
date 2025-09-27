@@ -18,5 +18,3 @@ A lightweight Chrome Extension that forces YouTube to play videos in H.264 (AVC)
 - 🚫 Blocks **AV1** and **VP9**, improving compatibility with older hardware.
 - **(4к,2к,1080p)** Lets you choose a **default video resolution**.
 - 🧩 Clean and simple popup UI for control.
-
----
